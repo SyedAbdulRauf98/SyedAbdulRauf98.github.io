@@ -1,0 +1,67 @@
+body {
+	background-image: url(https://www.radzen.com/documentation/login-background.png);
+	background-size: cover;
+}
+
+
+
+
+p {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Crimson Text', serif;
+	color: #FFD1AA;
+    
+}
+p:hover {
+	font-size: 43px;
+
+}
+h2 {
+	font-family: 'Crimson Text', serif;
+	font-size: 40px;
+	 border: 2px solid black;
+  background: url(bglines.png); /* will get clipped */
+  color: #FFD1AA;
+}
+
+img {
+	float: right;
+}
+
+h1 {
+	color: #FFFFAA;
+
+}
+
+
+}
+
+
+.btn {
+	text-transform: uppercase;
+	border-radius: 300px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+	
+}
+
+
+.btn-primary {
+	margin: 40px solid black;
+	
+	 position: absolute;
+  left: 600px;
+  top: 400px;
+ /* right: 200;
+  bottom: all;*/
+
+}
+
+.btn-primary:hover{
+	background-color: green;
+
+
+} 
